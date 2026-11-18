@@ -1,0 +1,11 @@
+﻿oi;Olá! Como posso ajudar você hoje?
+tudo bem;Tudo ótimo por aqui! E com você?
+qual o seu nome;Eu sou o PyBot, seu assistente de Inteligência Artificial!
+o que e ia;Inteligência Artificial é a capacidade de máquinas aprenderem e resolverem problemas.
+quem criou voce;Fui criado por alunos incríveis do 1º ano de Inteligência Artificial!
+qual a capital do brasil;A capital do Brasil é Brasília.
+me conta uma piada;Por que o computador foi ao médico? Porque estava com um vírus!
+o que e python;Python é uma linguagem de programação muito usada em Ciência de Dados e IA.
+como voce aprende;Eu aprendo salvando novas informações neste arquivo de texto!
+tchau;Até logo! Foi muito bom conversar com você.oi - olá! em que posso ajudar hoje?
+oi - olá, em que posso ajudar?
